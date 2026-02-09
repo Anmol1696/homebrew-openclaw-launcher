@@ -1,6 +1,6 @@
 cask "openclaw-launcher" do
-  version "0.1.2-beta"
-  sha256 "2862f37f78cd20428d9a4b7dcc91692216d11d621dad37b26667bad555d866b2"
+  version "0.1.5-beta"
+  sha256 "e34ad91f1f668d128d0b62be99a7d13a80520ace6b43f28104d413881ba6f001"
 
   url "https://github.com/Anmol1696/openclaw-launcher/releases/download/v#{version}/OpenClawLauncher.dmg"
   name "OpenClaw Launcher"
